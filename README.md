@@ -3,7 +3,7 @@
 I constructed a stopwatch using the LED displays and push button on the Basys 3 board.
 
 Display format of the clock is (M:SS:T): minutes (M) on one LED display, seconds (SS) on two LED displayS and tenth of second (T) on one LED display.
-In addition to this, the watch can be controlled via three push buttons:
+In addition to this, the watch can be controlled via three push buttons:    
 • start/continue     
 • pause    
 • reset   
